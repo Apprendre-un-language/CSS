@@ -1,16 +1,5 @@
 # CSS
 
----
-language: css
-filename: cascading-fr.css
-contributors:
-    - ["Mohammad Valipour", "https://github.com/mvalipour"]
-    - ["Marco Scannadinari", "https://github.com/marcoms"]
-translators:
-    - ["@prrrnd", "https://github.com/prrrnd"]
-lang: fr-fr
----
-
 Au début du web, il n'y avait pas d'élements visuels, simplement du texte pur. Mais avec le dévelopement des navigateurs,
 des pages avec du contenu visuel sont arrivées.
 CSS est le langage standard qui existe et permet de garder une séparation entre
